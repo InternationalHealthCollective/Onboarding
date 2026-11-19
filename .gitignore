@@ -15,7 +15,10 @@ service-account*.json
 *.tsv
 exports/
 # Synthetic samples in examples/ folders are allowed
-!**/examples/**
+!**/examples/**/*.csv
+!**/examples/**/*.tsv
+!**/examples/**/*.xlsx
+!**/examples/**/*.xls
 
 # Build and tooling
 node_modules/
