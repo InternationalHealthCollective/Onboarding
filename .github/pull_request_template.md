@@ -8,7 +8,7 @@
 
 ## Checklist
 
-- [ ] No real patient or applicant data (code, examples, screenshots, logs)
+- [ ] No real patient, applicant or staff data (code, examples, screenshots, logs)
 - [ ] No secrets or keys committed
-- [ ] Project README / HANDOFF updated if setup or behaviour changed
+- [ ] README / HANDOFF updated if setup or behaviour changed
 - [ ] Clinical logic changed? Clinical lead sign-off recorded in `docs/`
